@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14c815a0-33a4-46f5-a83b-819c972c73f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CDPCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleLogsCapture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GeoLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MobileEmulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NetworkBlockRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NetworkFailedRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NetworkMocking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NetworkResponses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NetworkSpeed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2zafLCZqlpVGE6MwoWrJJGh6NGG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,26 +33,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.BasicAuthentication.executor": "Run",
-    "Application.CDPCommand.executor": "Run",
-    "Application.ConsoleLogsCapture.executor": "Run",
-    "Application.GeoLocation.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MobileEmulator.executor": "Run",
-    "Application.NetworkBlockRequests.executor": "Run",
-    "Application.NetworkFailedRequest.executor": "Run",
-    "Application.NetworkMocking.executor": "Run",
-    "Application.NetworkResponses.executor": "Run",
-    "Application.NetworkSpeed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/280679/Intellij/CrossBrowserTesting"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.BasicAuthentication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CDPCommand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsoleLogsCapture.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GeoLocation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MobileEmulator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NetworkBlockRequests.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NetworkFailedRequest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NetworkMocking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NetworkResponses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NetworkSpeed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/280679/Intellij/CrossBrowserTesting&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ConsoleLogsCapture">
     <configuration name="BasicAuthentication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BasicAuthentication" />
